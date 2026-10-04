@@ -1,5 +1,5 @@
 // Verhoog dit nummer bij elke update, dan halen telefoons de nieuwe versie op.
-const VERSIE = "spelletjes-v5";
+const VERSIE = "spelletjes-v6";
 const BESTANDEN = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
